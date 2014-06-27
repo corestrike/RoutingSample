@@ -12,11 +12,12 @@ $ mvn spring-boot:run
 
 ## Access
 
-**Spring MVC JSP **
+**Spring MVC JSP**
 ```
 http://localhost:8080/sample/  
 ```
-**AngularJS **
+
+**AngularJS**
 ```
 http://localhost:8080/sample/angular/
 ```
